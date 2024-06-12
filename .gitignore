@@ -1,2 +1,5 @@
 /data
 /__pycache__
+flagged
+log.csv
+.gitignore
